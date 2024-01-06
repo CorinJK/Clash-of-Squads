@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5ff620f8-0010-4198-bddc-501302ee4738" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,30 +10,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2aYGfDW0PgbaKUxA0OxHef03ofN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "editor.preferences.handlebarsOptions"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.handlebarsOptions&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\Александра\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Александра\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
-      "C:\\Users\\Александра\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Александра\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Александра\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Александра\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="D:\Programming\Unity Editor\2022.3.10f1\Editor\Unity.exe" />
@@ -77,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704488200483</updated>
-      <workItem from="1704488201729" duration="301000" />
+      <workItem from="1704488201729" duration="3044000" />
+      <workItem from="1704565440486" duration="2524000" />
     </task>
     <servers />
   </component>
